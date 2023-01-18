@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/leonardo-m-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://leonardo.d3f4lt.com.br/" target="_blank"><img src="[https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)" target="_blank"></a> 
 
-![Snake animation](https://github.com/leonardo-matheus/leonardo-matheus/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Godofin/Godofin/blob/output/github-contribution-grid-snake.svg)
   
 
 
