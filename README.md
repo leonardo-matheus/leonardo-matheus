@@ -13,8 +13,7 @@
   <img align="center" alt="Taipescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
-   ##
- 
+  
 <div> 
   <a href="https://contate.me/leonardo-m" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/leonardo.mth/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
