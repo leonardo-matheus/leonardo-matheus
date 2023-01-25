@@ -1,10 +1,11 @@
 ### Olá Mundo, Meu nome é Leonardo Silva
 
 <div>
-![Leonardo Status](https://github-readme-stats.vercel.app/api?username=leonardo-matheus&show_icons=true)
-<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo-matheus&show_icons=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-matheus&layout=compact&langs_count=16&theme=dark"
+       </div>
 
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
