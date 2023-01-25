@@ -3,7 +3,7 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo-matheus&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-matheus&layout=compact&langs_count=16&theme=dark"
-       </div>
+</div>
 
 
 <div style="display: inline_block"><br>
@@ -24,7 +24,16 @@
   <a href="https://www.linkedin.com/in/leonardo-m-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://leonardo.d3f4lt.com.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/Godofin/Godofin/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/Godofin/Godofin/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
   
 
 
