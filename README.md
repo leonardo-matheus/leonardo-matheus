@@ -52,6 +52,7 @@ Atualmente trabalhando em **produtos SaaS** e exploração de **Rust para backen
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
 
 ---
@@ -71,7 +72,7 @@ Atualmente trabalhando em **produtos SaaS** e exploração de **Rust para backen
 |------|-----------|
 | **Backend Escalável** | Java Spring Boot, Rust async/await, APIs RESTful, GraphQL |
 | **Arquitetura de Sistemas** | Microserviços, SOLID principles, design patterns, event-driven architecture |
-| **Banco de Dados** | PostgreSQL, MongoDB, Redis, otimização de queries e índices |
+| **Banco de Dados** | PostgreSQL, MongoDB, Oracle, Redis, otimização de queries e índices |
 | **Frontend Moderno** | React hooks, Vue 3 composition API, state management, component design |
 | **DevOps & Cloud** | Docker, VPS (Debian), CI/CD, deployment automation |
 | **SaaS Development** | Produto full-cycle, monetização, onboarding, customer experience |
@@ -84,10 +85,10 @@ Atualmente trabalhando em **produtos SaaS** e exploração de **Rust para backen
   <a href="https://www.linkedin.com/in/leonardo-m-silva/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://leonardo.d3f4lt.com.br/" target="_blank">
+  <a href="https://leonardomdev.me/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
   </a>
-  <a href="mailto:leonardo@d3f4lt.com.br" target="_blank">
+  <a href="mailto:contato@leonardomdev.me" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://contate.me/leonardo-m" target="_blank">
