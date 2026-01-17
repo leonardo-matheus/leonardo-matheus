@@ -1,122 +1,207 @@
-# 👋 Leonardo Silva — Full-Stack Software Engineer
+<div align="center">
 
-Desenvolvedor full-stack senior com foco em **arquitetura de sistemas robustos**, **backend escalável** e **experiência em produção**. Especialista em Java Spring Boot, com expertise comprovada em Rust, Python, PHP, C++/C#, Ruby e frameworks modernos de frontend (React, Vue.js, Angular).
+# Leonardo M. Silva
 
----
+**Senior Full-Stack Software Engineer**
 
-## 🎯 Sobre Mim
+*Arquitetando sistemas escalaveis e solucoes de alta performance*
 
-Sou um engenheiro de software pragmático com mais de 7+ anos construindo aplicações web em produção. Meu foco está em:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-m-silva/)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://leonardomdev.me/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@leonardomdev.me)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/leonardo-m)
 
-- **Backend robusto**: Arquitetura de sistemas escaláveis com Java/Spring Boot, Rust e Python
-- **Full-stack**: Integração seamless entre frontend e backend com foco em performance
-- **DevOps & Infraestrutura**: Deployment, containerização (Docker), gerenciamento de VPS e otimização de produção
-- **Open-source**: Contribuição e manutenção de projetos comunitários
-
-Atualmente trabalhando em **produtos SaaS** e exploração de **Rust para backend** como alternativa moderna ao ecosistema Java tradicional.
-
----
-
-## 💻 Tech Stack
-
-### **Core Backend**
-<div>
-  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring Boot" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Rust" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
-
-### **Frontend Moderno**
-<div>
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Vue.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-
-### **Outras Linguagens**
-<div>
-  <img align="center" alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Ruby" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Kotlin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-</div>
-
-### **DevOps & Infraestrutura**
-<div>
-  <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Sobre
+
+Engenheiro de software com **7+ anos** de experiencia construindo aplicacoes web em producao. Especializado em **arquitetura backend escalavel**, com foco em entregar valor real para o negocio.
+
+```rust
+let leonardo = Developer {
+    role: "Senior Full-Stack Engineer",
+    languages: vec!["Java", "Rust", "TypeScript", "Python", "PHP"],
+    focus: vec!["Backend Architecture", "Scalable Systems", "SaaS Products"],
+    currently_exploring: "Rust for high-performance backend",
+};
+```
+
+---
+
+## Stack Principal
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
+<br><strong>Spring</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
+<br><strong>Rust</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+<br><strong>TypeScript</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<br><strong>React</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
+<br><strong>Vue.js</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+<br><strong>Docker</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+<br><strong>Linux</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+<br><strong>Git</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="48" height="48" alt="Ruby" />
+<br><strong>Ruby</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+<br><strong>PHP</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+<br><strong>C++</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+<br><strong>C#</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
+<br><strong>Kotlin</strong>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+<br><strong>Redis</strong>
+</td>
+</tr>
+</table>
+
+---
+
+## Projeto em Destaque
+
+<a href="https://github.com/leonardo-matheus/iris">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardo-matheus&repo=iris&theme=github_dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardo-matheus&repo=iris&theme=default&hide_border=true" />
+  <img alt="Iris Repository" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardo-matheus&repo=iris&theme=github_dark&hide_border=true" />
+</picture>
+</a>
+
+### [Iris - Dev Environment Launcher](https://github.com/leonardo-matheus/iris)
+
+> *"Todo dia era a mesma rotina: 4 terminais, 12 comandos, 5 minutos perdidos toda manha..."*
+
+Ferramenta desktop em **Rust** que centraliza a execucao de todos os projetos de desenvolvimento. Inicie gateways, dashboards, APIs e microservicos com **um unico clique**.
+
+**Stack:** Rust | egui/eframe | resvg | serde
+
+---
+
+## Metricas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo-matheus&show_icons=true&theme=dark&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-matheus&layout=compact&langs_count=10&theme=dark&hide_border=true">
+
+<!-- Linguagens mais usadas via Shields.io - 100% estável -->
+![Java](https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Advanced-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Expert-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=leonardo-matheus&color=0969da&style=for-the-badge&label=VIEWS)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/leonardo-matheus?label=Followers&style=for-the-badge&color=0969da)
+&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/leonardo-matheus?label=Stars&style=for-the-badge&color=0969da)
+
 </div>
 
 ---
 
-## 🚀 Áreas de Expertise
+## Areas de Expertise
 
-| Área | Descrição |
-|------|-----------|
-| **Backend Escalável** | Java Spring Boot, Rust async/await, APIs RESTful, GraphQL |
-| **Arquitetura de Sistemas** | Microserviços, SOLID principles, design patterns, event-driven architecture |
-| **Banco de Dados** | PostgreSQL, MongoDB, Oracle, Redis, otimização de queries e índices |
-| **Frontend Moderno** | React hooks, Vue 3 composition API, state management, component design |
-| **DevOps & Cloud** | Docker, VPS (Debian), CI/CD, deployment automation |
-| **SaaS Development** | Produto full-cycle, monetização, onboarding, customer experience |
-
----
-
-## 🌐 Conecte-se Comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/leonardo-m-silva/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leonardomdev.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
-  </a>
-  <a href="mailto:contato@leonardomdev.me" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://contate.me/leonardo-m" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://www.instagram.com/leonardo.mth/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</div>
+| Dominio | Tecnologias e Praticas |
+|:--------|:-----------------------|
+| **Backend Escalavel** | Java/Spring Boot, Rust async, REST APIs, GraphQL, gRPC |
+| **Arquitetura** | Microservices, Event-Driven, CQRS, Domain-Driven Design |
+| **Banco de Dados** | PostgreSQL, MongoDB, Oracle, Redis, Query Optimization |
+| **Frontend** | React, Vue.js, Angular, State Management, Component Design |
+| **DevOps** | Docker, CI/CD, Linux VPS, Deploy Automation |
+| **Produto** | SaaS Development, User Experience, Business Impact |
 
 ---
 
-## 📌 Destaques & Projetos
+## Atualmente
 
-💡 **Procurando colaborar em:**
-- Projetos de backend escalável com Java/Rust
-- Produtos SaaS inovadores
-- Arquitetura de sistemas distribuídos
-- Contribuições open-source
-
-📚 **Atualmente aprendendo:**
-- Rust para sistemas de alta performance
-- Advanced patterns em Cloud Native Architecture
-- Machine Learning integrado com backend
+- Desenvolvendo **produtos SaaS** com foco em UX e escalabilidade
+- Explorando **Rust** para backend de alta performance
+- Aprofundando conhecimento em **sistemas distribuidos**
+- Contribuindo para **projetos open-source**
 
 ---
 
 <div align="center">
-  <p><strong>💻 Desenvolvido com Java, React e um pouco de Rust</strong></p>
-  <p>Baseado em <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> | Inspirado por <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+
+### Vamos Conversar?
+
+Aberto para colaboracoes em **sistemas backend**, **produtos SaaS** e **projetos open-source**.
+
+[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-m-silva/)
+
+---
+
+<sub>*"O melhor codigo e aquele que resolve problemas reais."*</sub>
+
 </div>
