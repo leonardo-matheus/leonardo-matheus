@@ -135,84 +135,9 @@ $ uptime
 
 <div align="center">
 
-## Jogue Xadrez Comigo!
+## Breve humor
 
-<img src="https://img.shields.io/badge/STATUS-Sua%20vez!-667eea?style=for-the-badge&logo=lichess&logoColor=white" alt="Status"/>
-
-<br/>
-
-<!-- Tabuleiro de Xadrez Visual -->
-<table>
-<tr><td align="center" colspan="10">
-
-|   | a | b | c | d | e | f | g | h |   |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **8** | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ | **8** |
-| **7** | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | **7** |
-| **6** | · | · | · | · | · | · | · | · | **6** |
-| **5** | · | · | · | · | · | · | · | · | **5** |
-| **4** | · | · | · | · | · | · | · | · | **4** |
-| **3** | · | · | · | · | · | · | · | · | **3** |
-| **2** | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | **2** |
-| **1** | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ | **1** |
-|   | a | b | c | d | e | f | g | h |   |
-
-</td></tr>
-</table>
-
-<br/>
-
-**Vez das BRANCAS** ♔
-
-<br/>
-
-<a href="https://github.com/leonardo-matheus/leonardo-matheus/issues/new?title=chess%7Cmove%7Ce2e4&body=Jogada:%20e2%20para%20e4%0A%0ASubstitua%20o%20titulo%20pelo%20seu%20movimento!">
-  <img src="https://img.shields.io/badge/e2e4-Abrir%20com%20pe%C3%A3o-4CAF50?style=for-the-badge" alt="e2e4"/>
-</a>
-<a href="https://github.com/leonardo-matheus/leonardo-matheus/issues/new?title=chess%7Cmove%7Cd2d4&body=Jogada:%20d2%20para%20d4%0A%0ASubstitua%20o%20titulo%20pelo%20seu%20movimento!">
-  <img src="https://img.shields.io/badge/d2d4-Abertura%20da%20Dama-2196F3?style=for-the-badge" alt="d2d4"/>
-</a>
-<a href="https://github.com/leonardo-matheus/leonardo-matheus/issues/new?title=chess%7Cmove%7C[SUA_JOGADA]&body=Substitua%20[SUA_JOGADA]%20pelo%20movimento%20em%20notacao%20algebrica%20(ex:%20g1f3)">
-  <img src="https://img.shields.io/badge/Outro%20movimento-Personalizado-667eea?style=for-the-badge" alt="Custom"/>
-</a>
-
-<br/><br/>
-
-<details>
-<summary><b>Como jogar?</b></summary>
-<br/>
-
-| Peca | Branca | Preta | Movimento |
-|:----:|:------:|:-----:|:----------|
-| Rei | ♔ | ♚ | 1 casa em qualquer direcao |
-| Dama | ♕ | ♛ | Qualquer direcao, qualquer distancia |
-| Torre | ♖ | ♜ | Horizontal ou vertical |
-| Bispo | ♗ | ♝ | Diagonal |
-| Cavalo | ♘ | ♞ | "L" (2+1 casas) |
-| Peao | ♙ | ♟ | 1 casa para frente (2 no inicio) |
-
-**Notacao:** `[origem][destino]` - Ex: `e2e4` move a peca de e2 para e4
-
-</details>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## Quote do Dia
-
-<!-- Quote randomica de programacao -->
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&border=true" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-  </picture>
-</a>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
 </div>
 
@@ -351,32 +276,6 @@ Inicie gateways, dashboards, APIs e microservicos com **um unico clique**.
 
 <div align="center">
 
-## Atualmente
-
-</div>
-
-<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
-
-```rust
-loop {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
-- Desenvolvendo **produtos SaaS** com foco em UX
-- Explorando **Rust** para alta performance
-- Construindo **sistemas distribuidos**
-- Contribuindo para **open-source**
-
-<br/><br/><br/>
-
----
-
-<div align="center">
-
 ## Vamos Conversar?
 
 **Aberto para colaboracoes em sistemas backend, produtos SaaS e projetos open-source.**
@@ -404,16 +303,9 @@ loop {
 
 ---
 
-### Hora de codar!
-
-<!-- Relogio com fuso horario -->
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-<br/>
-
 <sub>*"O melhor codigo e aquele que resolve problemas reais."*</sub>
 
-<br/>
+<br/><br/>
 
 <!-- Footer animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
