@@ -110,9 +110,9 @@ $ uptime
 <!-- Trofeus do GitHub -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=leonardo-matheus&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=leonardo-matheus&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=leonardo-matheus&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=leonardo-matheus&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=leonardo-matheus&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <img src="https://github-trophies.vercel.app/?username=leonardo-matheus&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
   </picture>
 </a>
 
@@ -137,38 +137,63 @@ $ uptime
 
 ## Jogue Xadrez Comigo!
 
-**Mova uma peca abrindo uma Issue!**
+<img src="https://img.shields.io/badge/STATUS-Sua%20vez!-667eea?style=for-the-badge&logo=lichess&logoColor=white" alt="Status"/>
 
-<!-- Tabuleiro de Xadrez via GitHub Actions -->
-<a href="https://github.com/leonardo-matheus/leonardo-matheus/issues/new?title=chess%7Cmove%7C[SUA_JOGADA]&body=Substitua%20[SUA_JOGADA]%20pelo%20movimento%20em%20notacao%20algebrica%20(ex:%20e2e4)">
-  <img src="https://img.shields.io/badge/Fazer%20uma%20jogada-667eea?style=for-the-badge&logo=target&logoColor=white" alt="Make a move"/>
+<br/>
+
+<!-- Tabuleiro de Xadrez Visual -->
+<table>
+<tr><td align="center" colspan="10">
+
+|   | a | b | c | d | e | f | g | h |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **8** | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ | **8** |
+| **7** | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | **7** |
+| **6** | · | · | · | · | · | · | · | · | **6** |
+| **5** | · | · | · | · | · | · | · | · | **5** |
+| **4** | · | · | · | · | · | · | · | · | **4** |
+| **3** | · | · | · | · | · | · | · | · | **3** |
+| **2** | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | **2** |
+| **1** | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ | **1** |
+|   | a | b | c | d | e | f | g | h |   |
+
+</td></tr>
+</table>
+
+<br/>
+
+**Vez das BRANCAS** ♔
+
+<br/>
+
+<a href="https://github.com/leonardo-matheus/leonardo-matheus/issues/new?title=chess%7Cmove%7Ce2e4&body=Jogada:%20e2%20para%20e4%0A%0ASubstitua%20o%20titulo%20pelo%20seu%20movimento!">
+  <img src="https://img.shields.io/badge/e2e4-Abrir%20com%20pe%C3%A3o-4CAF50?style=for-the-badge" alt="e2e4"/>
+</a>
+<a href="https://github.com/leonardo-matheus/leonardo-matheus/issues/new?title=chess%7Cmove%7Cd2d4&body=Jogada:%20d2%20para%20d4%0A%0ASubstitua%20o%20titulo%20pelo%20seu%20movimento!">
+  <img src="https://img.shields.io/badge/d2d4-Abertura%20da%20Dama-2196F3?style=for-the-badge" alt="d2d4"/>
+</a>
+<a href="https://github.com/leonardo-matheus/leonardo-matheus/issues/new?title=chess%7Cmove%7C[SUA_JOGADA]&body=Substitua%20[SUA_JOGADA]%20pelo%20movimento%20em%20notacao%20algebrica%20(ex:%20g1f3)">
+  <img src="https://img.shields.io/badge/Outro%20movimento-Personalizado-667eea?style=for-the-badge" alt="Custom"/>
 </a>
 
-```
-    a   b   c   d   e   f   g   h
-  +---+---+---+---+---+---+---+---+
-8 | r | n | b | q | k | b | n | r | 8
-  +---+---+---+---+---+---+---+---+
-7 | p | p | p | p | p | p | p | p | 7
-  +---+---+---+---+---+---+---+---+
-6 |   |   |   |   |   |   |   |   | 6
-  +---+---+---+---+---+---+---+---+
-5 |   |   |   |   |   |   |   |   | 5
-  +---+---+---+---+---+---+---+---+
-4 |   |   |   |   |   |   |   |   | 4
-  +---+---+---+---+---+---+---+---+
-3 |   |   |   |   |   |   |   |   | 3
-  +---+---+---+---+---+---+---+---+
-2 | P | P | P | P | P | P | P | P | 2
-  +---+---+---+---+---+---+---+---+
-1 | R | N | B | Q | K | B | N | R | 1
-  +---+---+---+---+---+---+---+---+
-    a   b   c   d   e   f   g   h
+<br/><br/>
 
-    Vez das BRANCAS (P) - Abra uma issue para jogar!
-```
+<details>
+<summary><b>Como jogar?</b></summary>
+<br/>
 
-<sub>Exemplo de jogada: `e2e4` move o peao de e2 para e4</sub>
+| Peca | Branca | Preta | Movimento |
+|:----:|:------:|:-----:|:----------|
+| Rei | ♔ | ♚ | 1 casa em qualquer direcao |
+| Dama | ♕ | ♛ | Qualquer direcao, qualquer distancia |
+| Torre | ♖ | ♜ | Horizontal ou vertical |
+| Bispo | ♗ | ♝ | Diagonal |
+| Cavalo | ♘ | ♞ | "L" (2+1 casas) |
+| Peao | ♙ | ♟ | 1 casa para frente (2 no inicio) |
+
+**Notacao:** `[origem][destino]` - Ex: `e2e4` move a peca de e2 para e4
+
+</details>
 
 </div>
 
