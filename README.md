@@ -224,22 +224,45 @@ $ uptime
 
 ## Projeto em Destaque
 
+<br/>
+
 <a href="https://github.com/leonardo-matheus/iris">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardo-matheus&repo=iris&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardo-matheus&repo=iris&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=leonardo-matheus&repo=iris&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Iris Repository"/>
-  </picture>
+  <img src="https://img.shields.io/badge/IRIS-Dev%20Environment%20Launcher-667eea?style=for-the-badge&logo=rust&logoColor=white" alt="Iris"/>
 </a>
 
-### [Iris - Dev Environment Launcher](https://github.com/leonardo-matheus/iris)
+<br/><br/>
+
+<table>
+<tr>
+<td>
+
+### Iris - Dev Environment Launcher
 
 > *"Todo dia era a mesma rotina: 4 terminais, 12 comandos, 5 minutos perdidos toda manha..."*
 
 Ferramenta desktop em **Rust** que centraliza a execucao de todos os projetos de desenvolvimento.
 Inicie gateways, dashboards, APIs e microservicos com **um unico clique**.
 
-<img src="https://skillicons.dev/icons?i=rust" width="30"/> **Stack:** Rust | egui/eframe | resvg | serde
+<br/>
+
+**Tech Stack:**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![egui](https://img.shields.io/badge/egui-4285F4?style=flat-square&logo=rust&logoColor=white)
+![serde](https://img.shields.io/badge/serde-EF4A23?style=flat-square&logo=rust&logoColor=white)
+
+<br/>
+
+<a href="https://github.com/leonardo-matheus/iris">
+  <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/leonardo-matheus/iris/stargazers">
+  <img src="https://img.shields.io/github/stars/leonardo-matheus/iris?style=for-the-badge&color=667eea&logo=starship&logoColor=white" alt="Stars"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -251,58 +274,76 @@ Inicie gateways, dashboards, APIs e microservicos com **um unico clique**.
 
 ## Areas de Expertise
 
-</div>
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### Backend & Arquitetura
-```yaml
-languages: [Java, Rust, Kotlin, Python]
-frameworks: [Spring Boot, Actix, FastAPI]
-patterns: [Microservices, Event-Driven, CQRS, DDD]
-apis: [REST, GraphQL, gRPC]
-```
+<img src="https://img.shields.io/badge/Backend%20%26%20Arquitetura-667eea?style=for-the-badge" alt="Backend"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,rust,kotlin,python&perline=5&theme=dark" width="200"/>
+
+<br/><br/>
+
+`Microservices` `Event-Driven` `CQRS` `DDD`
+
+`REST` `GraphQL` `gRPC`
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
-### Infra & DevOps
-```yaml
-containers: [Docker, Kubernetes]
-databases: [PostgreSQL, MongoDB, Redis]
-messaging: [Kafka, RabbitMQ]
-cloud: [AWS, GCP]
-```
+<img src="https://img.shields.io/badge/Infra%20%26%20DevOps-764ba2?style=for-the-badge" alt="DevOps"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux&perline=5&theme=dark" width="200"/>
+
+<br/><br/>
+
+`PostgreSQL` `MongoDB` `Redis`
+
+`Kafka` `RabbitMQ` `CI/CD`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### Frontend
-```yaml
-frameworks: [React, Vue.js, Angular]
-language: TypeScript
-state: [Redux, Zustand, Pinia]
-style: [TailwindCSS, Styled Components]
-```
+<img src="https://img.shields.io/badge/Frontend-4CAF50?style=for-the-badge" alt="Frontend"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,vue,angular,ts,tailwind&perline=5&theme=dark" width="200"/>
+
+<br/><br/>
+
+`Redux` `Zustand` `Pinia`
+
+`Styled Components` `Responsive UI`
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
-### Produto & Negocio
-```yaml
-focus: SaaS Development
-approach: User Experience First
-methodology: Agile
-impact: Business Value Driven
-```
+<img src="https://img.shields.io/badge/Produto%20%26%20Negocio-FF6B6B?style=for-the-badge" alt="Product"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=figma,notion,git,github,vscode&perline=5&theme=dark" width="200"/>
+
+<br/><br/>
+
+`SaaS Development` `User Experience`
+
+`Agile` `Business Impact`
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
