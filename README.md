@@ -336,32 +336,6 @@ loop {
 
 <div align="center">
 
-## De onde vem meus visitantes?
-
-<!-- Mapa de visitantes -->
-<a href="https://github.com/leonardo-matheus">
-  <img src="https://profile-counter.glitch.me/leonardo-matheus/count.svg" alt="Visitor Count" />
-</a>
-
-<br/><br/>
-
-<!-- Grafico 3D de contribuicoes -->
-<a href="https://github.com/leonardo-matheus">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardo-matheus/leonardo-matheus/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardo-matheus/leonardo-matheus/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/leonardo-matheus/leonardo-matheus/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ## Vamos Conversar?
 
 **Aberto para colaboracoes em sistemas backend, produtos SaaS e projetos open-source.**
