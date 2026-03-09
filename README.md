@@ -20,80 +20,6 @@
 
 <br/>
 
-<!-- Terminal animado -->
-<div align="center">
-
-```bash
-$ whoami
-> Leonardo M. Silva | Senior Full-Stack Engineer
-
-$ cat skills.txt
-> Java, Rust, TypeScript, Python, Kotlin
-> Spring Boot, React, Vue.js
-> PostgreSQL, MongoDB, Redis, Kafka
-
-$ cat mission.txt
-> Transformando cafe em codigo de alta performance desde 2017
-
-$ uptime
-> 7+ anos de experiencia em producao
-```
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## GitHub Analytics
-
-<br/>
-
-<!-- Stats e Linguagens lado a lado -->
-<a href="https://github.com/leonardo-matheus">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=leonardo-matheus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=leonardo-matheus&show_icons=true&theme=default&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonardo-matheus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  </picture>
-</a>
-<a href="https://github.com/leonardo-matheus">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardo-matheus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardo-matheus&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardo-matheus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-  </picture>
-</a>
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<a href="https://github.com/leonardo-matheus">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=leonardo-matheus&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=667eea" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=leonardo-matheus&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=leonardo-matheus&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  </picture>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## Breve humor
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
@@ -168,6 +94,57 @@ $ uptime
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## GitHub Analytics
+
+<br/>
+
+<!-- Stats e Linguagens lado a lado -->
+<a href="https://github.com/leonardo-matheus">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=leonardo-matheus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&ring_color=667eea" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=leonardo-matheus&show_icons=true&theme=default&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonardo-matheus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  </picture>
+</a>
+<a href="https://github.com/leonardo-matheus">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardo-matheus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardo-matheus&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardo-matheus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+  </picture>
+</a>
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<a href="https://github.com/leonardo-matheus">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=leonardo-matheus&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=667eea" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=leonardo-matheus&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=leonardo-matheus&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  </picture>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## Breve humor
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
 </div>
 
