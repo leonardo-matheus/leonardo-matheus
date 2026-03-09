@@ -104,7 +104,7 @@ $ uptime
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
 <img src="https://img.shields.io/badge/Backend%20%26%20Arquitetura-667eea?style=for-the-badge" alt="Backend"/>
 
@@ -119,7 +119,7 @@ $ uptime
 `REST` `GraphQL` `gRPC`
 
 </td>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
 <img src="https://img.shields.io/badge/Infra%20%26%20DevOps-764ba2?style=for-the-badge" alt="DevOps"/>
 
@@ -129,14 +129,14 @@ $ uptime
 
 <br/><br/>
 
-`PostgreSQL` `MongoDB` `Redis` `Kafka`
+`CI/CD` `Terraform` `Shell Script`
 
-`RabbitMQ` `CI/CD` `Terraform`
+`Cloud Architecture` `Monitoring`
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
 <img src="https://img.shields.io/badge/Frontend-4CAF50?style=for-the-badge" alt="Frontend"/>
 
@@ -151,19 +151,19 @@ $ uptime
 `Styled Components` `Responsive UI`
 
 </td>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 
-<img src="https://img.shields.io/badge/Tools%20%26%20Workflow-FF6B6B?style=for-the-badge" alt="Tools"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vim,bash&perline=6&theme=dark" width="240"/>
+<img src="https://img.shields.io/badge/Databases-FF6B6B?style=for-the-badge" alt="Databases"/>
 
 <br/><br/>
 
-`SaaS Development` `User Experience`
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,kafka,rabbitmq&perline=6&theme=dark" width="240"/>
 
-`Agile` `Technical Leadership`
+<br/><br/>
+
+`Query Optimization` `Replication`
+
+`Sharding` `Cache Strategies`
 
 </td>
 </tr>
