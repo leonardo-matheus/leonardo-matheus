@@ -47,33 +47,6 @@ $ uptime
 
 <div align="center">
 
-## Tech Stack
-
-<!-- Skill Icons com hover visual -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,rust,ts,python,kotlin,react,vue,angular&perline=9&theme=dark" />
-</a>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postgres,mongodb,redis,kafka,linux,git,github&perline=9&theme=dark" />
-</a>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,graphql,nginx,bash,vim,idea,vscode&perline=8&theme=dark" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ## GitHub Analytics
 
 <br/>
@@ -125,7 +98,7 @@ $ uptime
 
 <div align="center">
 
-## Areas de Expertise
+## Tech Stack & Expertise
 
 <br/>
 
@@ -137,7 +110,7 @@ $ uptime
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,rust,kotlin,python&perline=5&theme=dark" width="200"/>
+<img src="https://skillicons.dev/icons?i=java,spring,rust,kotlin,python,graphql&perline=6&theme=dark" width="240"/>
 
 <br/><br/>
 
@@ -152,13 +125,13 @@ $ uptime
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux&perline=5&theme=dark" width="200"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,nginx&perline=6&theme=dark" width="240"/>
 
 <br/><br/>
 
-`PostgreSQL` `MongoDB` `Redis`
+`PostgreSQL` `MongoDB` `Redis` `Kafka`
 
-`Kafka` `RabbitMQ` `CI/CD`
+`RabbitMQ` `CI/CD` `Terraform`
 
 </td>
 </tr>
@@ -169,28 +142,28 @@ $ uptime
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,vue,angular,ts,tailwind&perline=5&theme=dark" width="200"/>
+<img src="https://skillicons.dev/icons?i=react,vue,angular,ts,tailwind,nextjs&perline=6&theme=dark" width="240"/>
 
 <br/><br/>
 
-`Redux` `Zustand` `Pinia`
+`Redux` `Zustand` `Pinia` `SSR`
 
 `Styled Components` `Responsive UI`
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/Produto%20%26%20Negocio-FF6B6B?style=for-the-badge" alt="Product"/>
+<img src="https://img.shields.io/badge/Tools%20%26%20Workflow-FF6B6B?style=for-the-badge" alt="Tools"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=figma,notion,git,github,vscode&perline=5&theme=dark" width="200"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vim,bash&perline=6&theme=dark" width="240"/>
 
 <br/><br/>
 
 `SaaS Development` `User Experience`
 
-`Agile` `Business Impact`
+`Agile` `Technical Leadership`
 
 </td>
 </tr>
