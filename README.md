@@ -125,56 +125,6 @@ $ uptime
 
 <div align="center">
 
-## Projeto em Destaque
-
-<br/>
-
-<a href="https://github.com/leonardo-matheus/iris">
-  <img src="https://img.shields.io/badge/IRIS-Dev%20Environment%20Launcher-667eea?style=for-the-badge&logo=rust&logoColor=white" alt="Iris"/>
-</a>
-
-<br/><br/>
-
-<table>
-<tr>
-<td>
-
-### Iris - Dev Environment Launcher
-
-> *"Todo dia era a mesma rotina: 4 terminais, 12 comandos, 5 minutos perdidos toda manha..."*
-
-Ferramenta desktop em **Rust** que centraliza a execucao de todos os projetos de desenvolvimento.
-Inicie gateways, dashboards, APIs e microservicos com **um unico clique**.
-
-<br/>
-
-**Tech Stack:**
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![egui](https://img.shields.io/badge/egui-4285F4?style=flat-square&logo=rust&logoColor=white)
-![serde](https://img.shields.io/badge/serde-EF4A23?style=flat-square&logo=rust&logoColor=white)
-
-<br/>
-
-<a href="https://github.com/leonardo-matheus/iris">
-  <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://github.com/leonardo-matheus/iris/stargazers">
-  <img src="https://img.shields.io/github/stars/leonardo-matheus/iris?style=for-the-badge&color=667eea&logo=starship&logoColor=white" alt="Stars"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ## Areas de Expertise
 
 <br/>
