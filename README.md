@@ -105,28 +105,6 @@ $ uptime
   </picture>
 </a>
 
-<br/><br/>
-
-<!-- Trofeus do GitHub -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=leonardo-matheus&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=leonardo-matheus&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <img src="https://github-trophies.vercel.app/?username=leonardo-matheus&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-  </picture>
-</a>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<a href="https://github.com/leonardo-matheus">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=leonardo-matheus&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area=true&area_color=667eea" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=leonardo-matheus&theme=minimal&hide_border=true&area=true" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardo-matheus&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" alt="Activity Graph"/>
-  </picture>
-</a>
-
 </div>
 
 <br/>
